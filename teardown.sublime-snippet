@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * {@inheritdoc}
+ */
+public function tearDown()
+{
+    ${1:parent::tearDown();}
+    ${0:}
+}
+]]></content>
+    <tabTrigger>teardown</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

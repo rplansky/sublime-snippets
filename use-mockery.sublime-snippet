@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+use Mockery as m;
+]]></content>
+    <tabTrigger>m</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
